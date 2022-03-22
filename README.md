@@ -1,15 +1,15 @@
-# testChallendge1
+# testChallendge1 (React & Node proect)
 
 
 # Install guide
-- backend install & run
-   go to backend folder and try this command
-       npm install
-       node index
+-backend install & run
+  -go to backend folder and try this command
+      - npm install
+      - node index
 - frontend install & run
-  go to front folder and try this command
-    yarn
-    npm start or yarn start
+    - go to front folder and try this command
+    - yarn
+    - npm start or yarn start
 
 # API reference Guide
 
