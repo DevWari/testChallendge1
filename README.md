@@ -2,8 +2,8 @@
 
 
 # Install guide
--backend install & run
-  -go to backend folder and try this command
+- backend install & run
+  - go to backend folder and try this command
       - npm install
       - node index
 - frontend install & run
@@ -14,4 +14,4 @@
 # API reference Guide
 
 - open a browser (Chrome or IE)
-  Link to 'http://localhost:3000/swagger/'
+  - Link to 'http://localhost:3000/swagger/'
